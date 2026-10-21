@@ -10,7 +10,7 @@ public class katas2 {
 
         if (temperatura > 60){
             System.out.println(nombre + ":caliente");
-        } else if (temperatura >= 30 && temperatura <= 60) {
+        } else if (temperatura >= 30 ) {
             System.out.println(nombre + ":Templada");
             
         } else {
